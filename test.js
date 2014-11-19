@@ -9,3 +9,8 @@ window.onload = function() {
 }
 
 
+
+	$(document).ready(function(){
+		alert("JQuery is working! Hooray!");
+	});
+
