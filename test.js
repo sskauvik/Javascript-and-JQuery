@@ -8,6 +8,4 @@ window.onload = function() {
 
 }
 
-$("Denne teksten er lagt inn før paragrafen").insertAfter("#PF");
- 
 
